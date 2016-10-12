@@ -8,6 +8,7 @@
 - [ITCSS: SCALABLE AND MAINTAINABLE CSS ARCHITECTURE](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 - [Building a Maintainable and Scalable CSS Codebase with ITCSS](https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with-itcss-ceda5b2f495b#.m6l7sx48c)
 - [The BEMIT naming convention](http://www.jamesturneronline.net/blog/bemit-naming-convention.html)
+- [CSS at trivago — Part 1: Structure and ITCSS](https://medium.com/@pistenprinz/css-at-trivago-part-1-structure-and-itcss-52f63ed557ca#.abr0loev4)
 
 ## Videos
 
