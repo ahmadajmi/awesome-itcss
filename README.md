@@ -19,6 +19,9 @@
 
 - [itcss-netmag](https://github.com/itcss/itcss-netmag)
 - [frcss](https://github.com/csswizardry/frcss)
+- [inuitcss](https://github.com/inuitcss/inuitcss)
+- [CSS Wizardry](https://github.com/csswizardry/csswizardry.github.com/tree/master/css)
+- [GOV.UK Frontend Alpha](https://github.com/alphagov/govuk_frontend_alpha/tree/master/app/assets/scss)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
