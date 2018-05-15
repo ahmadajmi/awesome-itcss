@@ -9,7 +9,7 @@
 - [Building a Maintainable and Scalable CSS Codebase with ITCSS](https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with-itcss-ceda5b2f495b#.m6l7sx48c)
 - [The BEMIT naming convention](http://www.jamesturneronline.net/blog/bemit-naming-convention.html)
 - [CSS at trivago — Part 1: Structure and ITCSS](https://medium.com/@pistenprinz/css-at-trivago-part-1-structure-and-itcss-52f63ed557ca#.abr0loev4)
-- [CSS at trivago — Part 2: Naming Conventions and Methodologies(https://medium.com/@pistenprinz/css-at-trivago-part-2-naming-conventions-and-methodologies-d51b445a3a39)
+- [CSS at trivago — Part 2: Naming Conventions and Methodologies](https://medium.com/@pistenprinz/css-at-trivago-part-2-naming-conventions-and-methodologies-d51b445a3a39)
 
 ## Videos
 
